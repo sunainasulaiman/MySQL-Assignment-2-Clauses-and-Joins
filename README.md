@@ -1,5 +1,6 @@
 # MySQL-Assignment-2-Clauses-and-Joins
 MySQL Assignment 2 – Querying Data
+
 📌 Project Overview
 
 This assignment focuses on querying and analyzing employee data using MySQL.
